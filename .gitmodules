@@ -1,0 +1,3 @@
+[submodule "Genomic variation/NBIS-ELIXIR Sweden"]
+	path = Genomic variation/NBIS-ELIXIR Sweden
+	url = https://wna-se@github.com/NBISweden/ejprd.git
