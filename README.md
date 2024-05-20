@@ -6,3 +6,4 @@ Repository for the Distributed Analysis
 * [rosazwart/phenopackets-v2-rdf-schema (2024, work in progress)](https://github.com/rosazwart/phenopackets-v2-rdf-schema)
 * [StaticFDP/FHIR-smoker](https://github.com/StaticFDP/FHIR-smoker)
 * [NBISweden/ejprd](https://github.com/NBISweden/ejprd)
+* [ejp-rd-vp/DistributedAnalysisDemonstrator](https://github.com/ejp-rd-vp/DistributedAnalysisDemonstrator/issues)
